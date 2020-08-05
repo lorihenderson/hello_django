@@ -1,4 +1,4 @@
-#!/Users/lorihenderson/django-projects/hello_django_main/.venv/bin/python
+#!/Users/lorihenderson/hello_django/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

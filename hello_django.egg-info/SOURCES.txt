@@ -1,0 +1,11 @@
+setup.py
+hello_django/__init__.py
+hello_django/asgi.py
+hello_django/settings.py
+hello_django/urls.py
+hello_django/wsgi.py
+hello_django.egg-info/PKG-INFO
+hello_django.egg-info/SOURCES.txt
+hello_django.egg-info/dependency_links.txt
+hello_django.egg-info/requires.txt
+hello_django.egg-info/top_level.txt
